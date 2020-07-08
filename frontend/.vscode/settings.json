@@ -1,4 +1,5 @@
 {
+  "css.validate": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
@@ -13,9 +14,7 @@
     "ignoreFiles": ["node_modules/**/*.*"]
   },
   "stylelint.enable": true,
-  "typescript.tsdk": "node_modules/typescript/lib",
   "[markdown]": {
     "files.trimTrailingWhitespace": false
-  },
-  "css.validate": true
+  }
 }
